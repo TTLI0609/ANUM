@@ -1,0 +1,4 @@
+function res = calculj(A ,m ,n )
+    res = zeros(m,1);
+    for m=1:n:
+        res = A()
